@@ -1,0 +1,15 @@
+<vector android:height="24dp" android:viewportHeight="64"
+    android:viewportWidth="64" android:width="24dp" xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#fff" android:pathData="M57,19L57,50A5,5 0,0 1,52 55L12,55A5,5 0,0 1,7 50L7,19A5,5 0,0 1,12 14L52,14A5,5 0,0 1,57 19z"/>
+    <path android:fillColor="#1394f6" android:pathData="M7,24V19a5,5 0,0 1,5 -5H52a5,5 0,0 1,5 5v5Z"/>
+    <path android:fillColor="#fff" android:pathData="M20,19a2,2 0,0 1,-2 -2V11a2,2 0,0 1,4 0v6A2,2 0,0 1,20 19Z"/>
+    <path android:fillColor="#fff" android:pathData="M44,19a2,2 0,0 1,-2 -2V11a2,2 0,0 1,4 0v6A2,2 0,0 1,44 19Z"/>
+    <path android:fillColor="#a4a4ac" android:pathData="M29,32l-0,5l-5,0l-0,-5z"/>
+    <path android:fillColor="#a4a4ac" android:pathData="M40,32l-0,5l-5,0l-0,-5z"/>
+    <path android:fillColor="#a4a4ac" android:pathData="M51,32l-0,5l-5,0l-0,-5z"/>
+    <path android:fillColor="#a4a4ac" android:pathData="M40,43l-0,5l-5,0l-0,-5z"/>
+    <path android:fillColor="#a4a4ac" android:pathData="M18,43l-0,5l-5,0l-0,-5z"/>
+    <path android:fillColor="#a4a4ac" android:pathData="M29,43l-0,5l-5,0l-0,-5z"/>
+    <path android:fillColor="#1394f6" android:pathData="M53,51m-8,0a8,8 0,1 1,16 0a8,8 0,1 1,-16 0"/>
+    <path android:fillColor="#FF000000" android:pathData="M58,52L54,52v4L52,56L52,52L48,52L48,50h4L52,46h2v4h4ZM34,42h7v7L34,49ZM36,47h3L39,44L36,44ZM41,38L34,38L34,31h7ZM39,33L36,33v3h3ZM12,49L12,42h7v7ZM14,47h3L17,44L14,44ZM45,31h7v7L45,38ZM47,36h3L50,33L47,33ZM62,51a9,9 0,0 1,-16.48 5L12,56a6,6 0,0 1,-6 -6L6,19a6,6 0,0 1,6 -6h5L17,11a3,3 0,0 1,6 0v2L41,13L41,11a3,3 0,0 1,6 0v2h5a6,6 0,0 1,6 6L58,43.52A9,9 0,0 1,62 51ZM57,42.93 L57.09,42.93ZM43,17a1,1 0,0 0,2 0L45,11a1,1 0,0 0,-2 0ZM19,17a1,1 0,0 0,2 0L21,11a1,1 0,0 0,-2 0ZM8,24L56,24L56,19a4,4 0,0 0,-4 -4L47,15v2a3,3 0,0 1,-6 0L41,15L23,15v2a3,3 0,0 1,-6 0L17,15L12,15a4,4 0,0 0,-4 4ZM44.52,54h0A9,9 0,0 1,56 42.52h0L56,26L8,26L8,50a4,4 0,0 0,4 4ZM45,55.07a0.93,0.93 0,0 0,0 -0.1A0.93,0.93 0,0 1,45 55.07ZM60,51a7,7 0,1 0,-7 7A7,7 0,0 0,60 51ZM30,38L23,38L23,31h7ZM28,33L25,33v3h3ZM23,42h7v7L23,49ZM25,47h3L28,44L25,44Z"/>
+</vector>

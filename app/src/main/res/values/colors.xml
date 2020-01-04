@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">	#ff3333</color>
+    <color name="colorPrimaryDark">#ff3333</color>
+    <color name="colorAccent">#ff3333</color>
+
+    <color name="lightishblue">#05DCF7</color>
+    <color name="navy">#701C02</color>
+    <color name="mistyrose">#FFE4E1</color>
+    <color name="pink">	#ffbaba</color>
+    <color name="white">#ffffff</color>
+    <color name="azure">#F0FFFF</color>
+    <color name="darkblue">#1111FC</color>
+    <color name="aqua">#00FFFF</color>
+    <color name="blue">#001F41</color>
+    <color name="transparent">#0000ffff </color>
+    <color name="darkbrown">#522F14</color>
+    <color name="darkerbrown">#290e05</color>
+    <color name="darkmaroon">#79041F</color>
+    <color name="darkpurple">#880532</color>
+    <color name="red">#ff0d0d</color>
+    <color name="lightred">#F31807</color>
+    <color name="login">#290e05</color>
+    <color name="navyblue">#010C46</color>
+    <color name="lightishred">#ff3333</color>
+    <color name="darkred">#c60032</color>
+</resources>
+    <!--#3f000fcolorprimary-->
+    <!--#290e05primarydark-->
+    <!--#ff3333coloraccent-->

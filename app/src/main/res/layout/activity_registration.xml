@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg9">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/signup"
+        android:layout_marginTop="20dp"
+        android:textColor="@color/darkerbrown"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        android:textAppearance="@color/mistyrose"
+        android:textSize="40dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:orientation="vertical"
+        android:background="@drawable/bg3"
+        android:alpha="0.8"
+        android:layout_margin="20dp">
+        <EditText
+            android:id="@+id/et_fname"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/fname"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:drawableLeft="@drawable/ic_perm_identity_black_24dp"
+            android:textColorHint="@color/azure"
+            android:textColor="@color/white"/>
+        <EditText
+            android:id="@+id/et_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/name"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:drawableLeft="@drawable/ic_person_black_24dp"
+            android:textColorHint="@color/azure"
+            android:textColor="@color/white"/>
+
+
+
+        <EditText
+            android:id="@+id/et_email"
+            android:hint="@string/email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="textEmailAddress"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:layout_marginTop="15dp"
+            android:drawableLeft="@drawable/ic_email_black_24dp"
+            android:textColorHint="@color/azure"
+            android:textColor="@color/white"/>
+
+        <EditText
+            android:id="@+id/et_phno"
+            android:hint="@string/phno"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="phone"
+            android:layout_marginTop="15dp"
+            android:layout_marginRight="30dp"
+            android:layout_marginLeft="30dp"
+            android:drawableLeft="@drawable/ic_call_black_24dp"
+            android:textColorHint="@color/azure"
+            android:textColor="@color/white"/>
+
+        <EditText
+            android:id="@+id/et_pass"
+            android:hint="@string/pass"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="textPassword"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:layout_marginTop="15dp"
+            android:drawableLeft="@drawable/ic_lock_open_black_24dp"
+            android:textColorHint="@color/azure"
+            android:textColor="@color/white"/>
+
+        <EditText
+            android:id="@+id/et_cpass"
+            android:hint="@string/cpass"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="textPassword"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:layout_marginTop="15dp"
+            android:drawableLeft="@drawable/ic_lock_black_24dp"
+            android:textColorHint="@color/azure"
+            android:textColor="@color/white"/>
+
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <Button
+            android:id="@+id/bt_signup2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/signup"
+            android:textColor="@color/azure"
+
+            android:layout_marginLeft="130dp"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:alpha="0.6"
+            android:background="@drawable/roundedbutton" />
+        <TextView
+            android:id="@+id/tv_signup2"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Already a Member?Login In"
+            android:textColor="@color/darkerbrown"
+            android:textStyle="bold"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10dp"/>
+    </LinearLayout>
+
+
+</LinearLayout>
